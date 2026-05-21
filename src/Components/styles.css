@@ -1,0 +1,26 @@
+.main-container{
+    height: 100vh;
+    background-color: black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-box{
+    background-color: white;
+    padding: 70px;
+    text-align: center;
+    height: auto;
+    border-radius: 25px;
+    box-shadow: 10px 5px 0px 5px gray;
+    
+}
+.customer-details{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color:aqua;
+
+}
